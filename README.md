@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://filetobot.maxwar.workers.dev/file/BQACAgIAAyEGAASnM-y_AANIaKgWsPlimgyIQZy1UjvHCltnhjsAAlF0AAL7VkBJNXtkwb9IgwE2BA/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64756d626173504c2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d63686172747.svg" height="150" alt="stats graph"  />
+  <img src="https://camo.githubusercontent.com/fce6475f6f37539109b78cd262aa0ae9849a3e120e79aa7bfabdc53172bf7de9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d64756d626173504c2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d636861727472657573652d6461726b" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SleepMod&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
